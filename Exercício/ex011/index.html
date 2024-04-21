@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML</title>
+</head>
+<body>
+    <h1>Imagens dinâmica</h1>
+    <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente e diminua o tamanho do seu navegador.</p>
+    <picture>
+        <source media="(min-width: 1050px)" srcset="imagens/foto-g.png" type="image/png">
+        <source media="(min-width: 750px)" srcset="imagens/foto-m.png" type="image/png">
+        <img src="imagens/foto-p.png" alt="Imagens flexível">
+    </picture>
+    <h1>Reproduzindo áudio</h1>
+    <p>Vamos aprender a colocar áudios em um site.</p>
+    <audio src="midia/african-fella.mp3" autoplay controls></audio> <!--MP3 WAV OGG-->
+    <p>Uma forma de que o navegador pegue o tipo de áudio que melhor se adapta e colocar todos na tag &lt;audio&gt;, e utilizar a tag &lt;source:src&gt;.</p>
+    <audio preload="metadata" controls>
+        <source src="midia/african-fella.mp3" type="audio/mpeg">
+        <source src="midia/african-fella.ogg" type="audio/ogg">
+        <source src="midia/african-fella.wav" type="audio/wav">
+        <p>Infelizmente seu navegador não suporta áudios. <a href="midia/african-fella.mp3">Clique aqui para baixar o áudio em MP3</a></p>
+    </audio>
+</body>
+</html>
