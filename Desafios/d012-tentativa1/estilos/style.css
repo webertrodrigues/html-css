@@ -75,7 +75,7 @@ p{
 
 #flor{
     position: relative;
-    background: url('imagens/background001.jpg') center right no-repeat fixed;
+    background: url('../imagens/background001.jpg') center right no-repeat fixed;
     /*background-image: url('imagens/background001.jpg');*/
     /*background-repeat: no-repeat;*/
     /*background-position: top right;*/
@@ -87,7 +87,7 @@ p{
 }
 
 #livro{
-    background: url('imagens/background002.jpg') center right no-repeat fixed;
+    background: url('../imagens/background002.jpg') center right no-repeat fixed;
     /*background-image: url('imagens/background001.jpg');*/
     /*background-repeat: no-repeat;*/
     /*background-position: top right;*/
@@ -104,10 +104,10 @@ p{
 }
 
 footer{
-    background-color: var(--cor1);
-    padding: 7px;
-    color: var(--cor2);
     text-align: center;
+    background-color: var(--cor1);
+    color: var(--cor2);
+    padding: 7px;
 }
 footer p{
     font-weight: 100;
@@ -116,7 +116,7 @@ footer p{
 }
 
 footer a{
+    font-weight: bold;
     text-decoration: none;
     color: var(--cor2);
-    font-weight: bold;
 }
