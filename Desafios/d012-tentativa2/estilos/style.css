@@ -8,6 +8,7 @@
     --cor1: #000000;
     --cor2: #ffffff;
     --cor3: #00000062;
+    --cor4: #0000008c;
 }
 
 *{
@@ -52,50 +53,38 @@ p{
 .normal {
     line-height: 2em;
     font-size: 3.5vw;
+    margin:  20px 0px 100px 20px;
 }
 
 .imagem p{
-    position: absolute;
     font-size: 3.5vw;
     line-height: 2em;
     color: var(--cor2);
     background-color: var(--cor3);
     text-shadow: 1px 2px 5px var(--cor1);
-    margin: 0px 20px;
-    padding: 12px 2px;
-    left: 0%;
-    top: 50%;
-    transform: translate(0%, -50%);
+    display: inline-block;
 }
 
-#flor{
-    position: relative;
+#img1{
     background: url('../imagens/background001.jpg') center right no-repeat fixed;
     /*background-image: url('imagens/background001.jpg');*/
     /*background-repeat: no-repeat;*/
-    /*background-position: top right;*/
+    /*background-position: center right;*/
     /*background-attachment: fixed;*/
     background-size: cover;
-    height: 60vw;
-    box-shadow: inset 0px 0px 20px var(--cor1);
-    padding: 30px;
+    box-shadow: inset 6px 6px 13px var(--cor4);
+    padding: 100px 30px;
 }
 
-#livro{
-    position: relative;
+#img2{
     background: url('../imagens/background002.jpg') center right no-repeat fixed;
     /*background-image: url('imagens/background001.jpg');*/
     /*background-repeat: no-repeat;*/
-    /*background-position: top right;*/
+    /*background-position: center right;*/
     /*background-attachment: fixed;*/
     background-size: cover;
-    height: 60vw;
-    box-shadow: inset 0px 0px 20px var(--cor1);
-    padding: 30px;
-}
-
-.parag{
-    margin:  20px 0px 100px 20px;
+    box-shadow: inset 6px 6px 13px var(--cor4);
+    padding: 100px 30px;
 }
 
 footer{
