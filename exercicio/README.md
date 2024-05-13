@@ -1,6 +1,7 @@
 # Exercícios
 
 ## Módulo 1
+
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex001/index.html">ex001</a>
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex002/index.html">ex002</a>
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex003/index.html">ex003</a>
@@ -18,6 +19,7 @@
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex015/index.html">ex015</a>
 
 ## Módulo 2
+
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex016/cor01.html">ex016 - parte 1</a>
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex016/cor02.html">ex016 - parte 2</a>
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex016/cor03.html">ex016 - parte 3</a>
@@ -29,6 +31,7 @@
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex020/Links.html">ex020</a>
 
 ## Módulo 3
+
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex021/caixa01.html">ex021 - parte 1</a>
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex021/caixa02.html">ex021 - parte 2</a>
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex022/fundo001.html">ex022 - parte 1</a>
