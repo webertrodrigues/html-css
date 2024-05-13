@@ -27,3 +27,21 @@
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex018/fonte02.html">ex018 - parte 2</a>
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex019/id.html">ex019</a>
  - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex020/Links.html">ex020</a>
+
+## Módulo 3
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex021/caixa01.html">ex021 - parte 1</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex021/caixa02.html">ex021 - parte 2</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex022/fundo001.html">ex022 - parte 1</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex022/fundo002.html">ex022 - parte 2</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex022/fundo003.html">ex022 - parte 3</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex022/fundo004.html">ex022 - parte 4</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex022/fundo005.html">ex022 - parte 5</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex022/fundo006.html">ex022 - parte 6</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex022/fundo007.html">ex022 - parte 7</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex023/tabala001-part1.html">ex023 - parte 1.0</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex023/tabala001-part2.html">ex023 - parte 1.1</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex023/tabela002.html">ex023 - parte 2</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex023/tabela003.html">ex023 - parte 3</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex023/tabela004.html">ex023 - parte 4</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex023/tabela005.html">ex023 - parte 5</a>
+ - <a href="https://webertrodrigues.github.io/html-css/exercicio/ex023/tabela006.html">ex023 - parte 6</a>
