@@ -1,0 +1,18 @@
+# Desafios
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d001/index.html">Desafio 1</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d002/index.html">Desafio 2</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d003/index.html">Desafio 3</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d004/index.html">Desafio 4</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d005/index.html">Desafio 5</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d006/index.html">Desafio 6</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d007/index.html">Desafio 7</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d008/index.html">Desafio 8</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d009/index.html">Desafio 9</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d010-tentativa1/index.html">Desafio 10 - tentativa 1</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d010-tentativa2/android.html">Desafio 10 - tentativa 2</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d011/index.html">Desafio 11</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d012-tentativa1/index.html">Desafio 12 - tentativa 1</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d012-tentativa2/index.html">Desafio 12 - tentativa 2</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d013-exercicio/tabela1.html">Desafio 13 - exercício 1</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d013-exercicio/tabela2.html">Desafio 13 - exercício 2</a>
+ - <a href="https://webertrodrigues.github.io/html-css/Desafios/d014-exercicio/tabela01.html">Desafio 14 - exercício</a>
