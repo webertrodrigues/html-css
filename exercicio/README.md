@@ -50,3 +50,6 @@ Aqui abaixo estarei apresentando cada um dos exercícios que foram passando no c
 - [ex023 - parte 4](https://webertrodrigues.github.io/html-css/exercicio/ex023/tabela004.html)
 - [ex023 - parte 5](https://webertrodrigues.github.io/html-css/exercicio/ex023/tabela005.html)
 - [ex023 - parte 6](https://webertrodrigues.github.io/html-css/exercicio/ex023/tabela006.html)
+- [ex024 - parte 1](https://webertrodrigues.github.io/html-css/exercicio/ex024/iframe001.html)
+- [ex024 - parte 2](https://webertrodrigues.github.io/html-css/exercicio/ex024/iframe002.html)
+- [ex024 - parte 3](https://webertrodrigues.github.io/html-css/exercicio/ex024/iframe003.html)
